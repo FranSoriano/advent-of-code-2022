@@ -1,5 +1,6 @@
 # Advent of Code 2022
 
+
                                         .｡❅*⋆⍋*∞*｡*∞*⍋⋆*❅｡.
 
                        Hi! Here are my solutions for the Advent of Code of 2022
